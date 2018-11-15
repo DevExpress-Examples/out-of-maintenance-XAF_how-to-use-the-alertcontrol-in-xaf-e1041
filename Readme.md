@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[ShowAlertControlMainWindowController.cs](./CS/WinSolution.Module/ShowAlertControlMainWindowController.cs) (VB: [ShowAlertControlMainWindowController.vb](./VB/WinSolution.Module/ShowAlertControlMainWindowController.vb))**
+<!-- default file list end -->
 # How to use the AlertControl in XAF?
 
 
